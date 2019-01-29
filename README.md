@@ -3,5 +3,5 @@ Currently the user takes a quiz and after completion, the user gets the score in
 
 This app is in its early stages and the goal is to make it much more complex and with better graphics.
 
-*Reference for this project: Android Programming: The Big Nerd Ranch Guide
+Reference for this project: Android Programming: The Big Nerd Ranch Guide
 
